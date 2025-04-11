@@ -1,4 +1,4 @@
-# 📦 Push Requests Guide
+# 📦 Pull Requests Guide
 
 ## What is a Push Request in Github?
 
