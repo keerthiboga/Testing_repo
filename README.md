@@ -1,10 +1,9 @@
-# 📦 Pull Requests Guide
+# 📦 Push Requests Guide
 
 ## What is a Push Request in Github?
 
 A **Pull Request (PR)** is a way to propose changes to a repository. When you open a pull request, you're requesting that someone reviews and merges your changes into the main project.
-
-Pull requests let us:
+my:
 - Review code before it’s merged
 - Discuss and refine features or fixes
 - Keep the main branch stable and production-ready
