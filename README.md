@@ -1,4 +1,4 @@
-# 📦 Pull Requests Guide
+# 📦 Push Requests Guide
 
 ## What is a Pull Request?
 
